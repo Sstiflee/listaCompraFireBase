@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "998684609533",
+    "firebase_url": "https://ejemplo-fire-base-b-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "ejemplo-fire-base-b",
+    "storage_bucket": "ejemplo-fire-base-b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998684609533:android:e74f81012d7d889e25e794",
+        "android_client_info": {
+          "package_name": "adrian.belarte.ejemplofirebaseb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9R4uj72k99ho3tkucKIC77G5x8EeAXgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998684609533:android:1d06153d1bf2d28525e794",
+        "android_client_info": {
+          "package_name": "montacer.elfazazi.ejerc5clasepmdmtema1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9R4uj72k99ho3tkucKIC77G5x8EeAXgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ejerc5ClasePmdmTema1</string>
+    <string name="name">Name</string>
+    <string name="quantity">Quantity</string>
+    <string name="price">Price</string>
+    <string name="total">total</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">Ok</string>
+    <string name="titleCreate">CREATE PRODUCT</string>
+    <string name="missing">Missing Data</string>
+    <string name="delete">delete: are you sure?</string>
+    <string name="update">UPDATE PRODUCT</string>
+</resources>
